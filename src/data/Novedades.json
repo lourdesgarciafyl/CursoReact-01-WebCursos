@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "title": "Curso de ReactJs",
+      "description": "Aprende todo lo relacionado con la tecnologia mas usada en el mercado",
+      "colorButton": "primary"
+    },
+    {
+      "id": 2,
+      "title": "Curso de NodeJs",
+      "description": "En este curso conseguiras realizar un backend con las mejores practicas y mas utilizadas en el desarrollo",
+      "colorButton": "success"
+    },
+    {
+      "id": 3,
+      "title": "Curso React Native",
+      "description": "Empieza a realizar aplicaciones mobile con la tecnologia mas solicitada en las empresas",
+      "colorButton": "secondary"
+    }
+  ]  
