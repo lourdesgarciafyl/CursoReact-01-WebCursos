@@ -13,7 +13,6 @@ const Novedades = () => {
   const handleShow = (title) => {
     setShow(true)
     setTitle(title);
-
   }
 
 
